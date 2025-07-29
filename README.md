@@ -1,5 +1,5 @@
-<h1 align="center">✨ Estefanía Antonio Villaseca ✨</h1>
-<h3 align="center">Fullstack Developer | UX/UI Enthusiast | Amazon SDE Intern</h3>
+<h1 align="center">🌸 Estefanía Antonio Villaseca 🌸</h1>
+<h3 align="center">Fullstack Developer | Amazon SDE Intern</h3>
 
 
 <p align="center">
@@ -19,21 +19,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,py,cpp,go,html,css,react,nextjs,nodejs,express,firebase,supabase,tailwind,materialui,figma,aws,postgres,jest,pytest,postman&perline=10" />
+</p>
 
-**Languages:**  
-`TypeScript` • `JavaScript` • `Kotlin` • `Python` • `SQL` • `Golang` • `C++`  
-
-**Frontend:**  
-`React` • `Next.js` • `TailwindCSS` • `Material UI` • `Storybook` • `HTML/CSS` • `Figma`
-
-**Backend & Cloud:**  
-`Node.js` • `Express` • `Firebase` • `Supabase` • `Firestore` • `AWS` (incl. `DynamoDB`)
-
-**Testing & QA:**  
-`Jest` • `JUnit` • `PyTest` • `Postman` • `Heuristic Evaluation` • `Test Doubles` • `Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Black-box Testing`
-
----
 
 ## 🚀 Highlight Projects
 
