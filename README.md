@@ -13,36 +13,50 @@
 ## 👩‍💻 About Me
 
 💻 Fullstack developer building end-to-end web solutions
-🚀 Currently an intern at Amazon (Payments team)
+<br/>
+💼 Currently an intern at Amazon (Payments team)
+<br/>
 🎨 Designing intuitive and scalable software with a strong UX focus
+<br/>
 🎓 Computer Science student @ Tecnológico de Monterrey, graduating June 2026  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-TypeScript • JavaScript • Kotlin • Python • SQL • Golang • C++  
-
-**Frontend:**  
-React • Next.js • TailwindCSS • Material UI • Storybook • HTML/CSS • Figma
-
-**Backend & Cloud:**  
-Node.js • Express • Firebase • Supabase • Firestore • AWS (incl. DynamoDB)
-
-**Testing & QA:**  
-Jest • JUnit • PyTest • Postman • Heuristic Evaluation • Test Doubles • Unit Testing • Integration Testing • End-to-End Testing • Black-box Testing
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,py,cpp,go,html,css,react,nextjs,nodejs,express,firebase,supabase,tailwind,materialui,figma,aws,postgres,jest,pytest,postman&perline=10" />
+**Languages**  
+<p>
+  TypeScript • JavaScript • Kotlin • Python • SQL • Golang • C++
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,py,go,cpp" />
 </p>
+
+**Frontend**  
+<p>
+  React • Next.js • TailwindCSS • Material UI • HTML/CSS • Figma
+   <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css,figma" />
+</p>
+
+**Backend & Cloud**  
+<p>
+  Node.js • Express • Firebase • Supabase • Firestore • AWS (incl. DynamoDB)
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,aws" />
+</p>
+
+**Testing & QA**  
+<p>
+  Jest • JUnit • PyTest • Postman • Heuristic Evaluation • Test Doubles • Unit Testing • Integration Testing • End-to-End Testing • Black-box Testing
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jest,postman" />
+</p>
+
 
 
 ## 🚀 Highlight Projects
 
-### 🧬 [Plagiarism Detection System (Go)](https://github.com/alexkm174x8/Plagiarism-)
+### 🔎 [Plagiarism Detection System (Golang)](https://github.com/alexkm174x8/Plagiarism-)
 An algorithmic comparison system using **Suffix Array** and **LCS** for accurate similarity scoring.  
 🔹 Developed with Go for performance and academic writing integrity detection  
 🔹 Real-time substring analysis and modular structure for extensibility
@@ -57,20 +71,35 @@ Mobile app to identify native plants while hiking in Ocoyucan, Puebla using AI a
 🔹 Integrated Google Maps SDK & Plant.ID API  
 🔹 Firebase backend with gamification and trail tracking
 
-### 💡 [Concora (Next.js + Supabase)](https://concora.mx/)
+### ❤️ [Concora (TypeScript + Firebase)](https://concora.mx/)
 EdTech platform for youth in LATAM to find personalized learning paths and job opportunities.  
 🔹 I led the fullstack development, architecture & UX/UI  
-🔹 CI/CD, agile sprints, and scalability with Supabase and Vercel
+🔹 CI/CD, agile sprints, and scalability with Firebase
 
 ---
 
 ## 🏆 Awards & Honors
 
-- 🥇 Gold medal in High-Performance Math & C++ problem solving  
-- 🏆 Finalist @ EasyX x Stacks Hackathon (Harvard Tech Track)  
-- 🧠 Winner @ OFMI (Mexican Olympiad in Informatics)  
-- 👩‍💼 Founder Scholarship & Top 10% Student @ Tecnológico de Monterrey  
-- 🌎 International recognition for adaptive learning platform @ Concora  
+- 🧠 **Mexican Female Olympiad in Informatics (OFMI)** – *Silver Medal*  
+  Recognized for excellence in algorithmic problem solving with C++, which led to an invitation to represent at the **ICPC ESCOM Regional**.
+  
+- 🧩 **EasyA x Stacks Harvard Hackathon** – *Finalist*  
+  Presented **Concora**, an EdTech platform empowering youth through personalized learning and real-world opportunities.
+  
+  - 🥇 **Hult Prize Regional (Centro-Sur)** – *1st Place*  
+  Led the winning pitch for **Concora**, addressing youth employability in LATAM through adaptive education and job-matching.
+
+- 🥈 **Justice Social Ideathon (ILO & UN)** – *2nd Place*  
+  Honored for designing an inclusive and impactful educational platform focused on equity and transparency.
+
+- 🌐 **International Recognition for Concora**  
+  Highlighted by global organizations for driving **personalized learning** and **youth empowerment** through technology.
+
+- 🏅 **High-Performance Mathematics Competition** – *Gold Medal*  
+  Awarded for outstanding proficiency in C++ and mathematical problem solving in a competitive academic setting.
+
+- 🎓 **Founder Scholarship @ Tecnológico de Monterrey**  
+  Selected for academic excellence; ranked in the **Top 10%** of students nationally.
 
 ---
 
@@ -86,10 +115,10 @@ EdTech platform for youth in LATAM to find personalized learning paths and job o
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/estefania-antonio-villaseca/">
+  <a href="https://www.linkedin.com/in/fanilex/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:estefania.antonio@tec.mx">
+  <a href="mailto:estefaniaantoniovillaseca@gmail.com">
     <img src="https://img.shields.io/badge/email-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Fanilex">
