@@ -28,34 +28,34 @@
 `React` • `Next.js` • `TailwindCSS` • `Material UI` • `Storybook` • `HTML/CSS` • `Figma`
 
 **Backend & Cloud:**  
-`Node.js` • `Express` • `Firebase` • `Supabase` • `Firestore` • `AWS` (incl. `DynamoDB`, `CloudWatch`, `Datadog`)
+`Node.js` • `Express` • `Firebase` • `Supabase` • `Firestore` • `AWS` (incl. `DynamoDB`)
 
 **Testing & QA:**  
-`Jest` • `Heuristic Evaluation` • `CI/CD` • `GitHub Actions`
+`Jest` • `JUnit` • `PyTest` • `Postman` • `Heuristic Evaluation` • `Test Doubles` • `Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Black-box Testing`
 
 ---
 
 ## 🚀 Highlight Projects
 
-### 🧬 [Plagiarism Detection System (Golang)](#)
-Algorithmic comparison system using **Suffix Array** and **LCS** for accurate similarity scoring.  
-🔹 Implemented suffix array and substring detection for academic writing comparison.  
-🔹 Focused on performance and real-time scoring of long-form texts.
+### 🧬 [Plagiarism Detection System (Go)](https://github.com/alexkm174x8/Plagiarism-)
+An algorithmic comparison system using **Suffix Array** and **LCS** for accurate similarity scoring.  
+🔹 Developed with Go for performance and academic writing integrity detection  
+🔹 Real-time substring analysis and modular structure for extensibility
 
-### 🛰 [Rocket Telemetry Dashboard (JavaScript + Python)](#)
-Telemetry interface for real-time rocket data during launches at Spaceport America Cup.  
-🔹 GPS + sensor data displayed with custom chart components (Dash + JavaScript).  
-🔹 Used Python for altitude and pressure-based predictions of weather events.
+### 🛰 [Rocket Telemetry Dashboard (JavaScript + Python)](https://github.com/Francisco1583/rockingScience)
+A real-time dashboard to monitor rocket telemetry at **Spaceport America Cup**.  
+🔹 Displays GPS and sensor data using Python, Dash, and custom JS components  
+🔹 Built weather prediction models based on altitude and pressure telemetry
 
 ### 🌿 [Tentzo Hiking App (Kotlin + Firebase)](https://github.com/alexkm174x8/Tentzo-App-Android)
-Mobile app for identifying local flora in Ocoyucan, Puebla using AI and geolocation.  
-🔹 Integrated Google Maps SDK + Plant.ID API for real-time plant ID.  
-🔹 Firebase Cloud Functions used for gamification and session tracking.
+Mobile app to identify native plants while hiking in Ocoyucan, Puebla using AI and geolocation.  
+🔹 Integrated Google Maps SDK & Plant.ID API  
+🔹 Firebase backend with gamification and trail tracking
 
-### 💡 [Concora (Next.js + Supabase)](#)
-An EdTech platform that empowers LATAM youth through personalized learning + job connections.  
-🔹 CTO & Lead Developer — handled fullstack, architecture & product.  
-🔹 Agile sprints, CI/CD, and product scaling via GCP.
+### 💡 [Concora (Next.js + Supabase)](https://concora.mx/)
+EdTech platform for youth in LATAM to find personalized learning paths and job opportunities.  
+🔹 I led the fullstack development, architecture & UX/UI  
+🔹 CI/CD, agile sprints, and scalability with Supabase and Vercel
 
 ---
 
