@@ -28,8 +28,7 @@ Node.js • Express • Firebase • Supabase • Firestore • AWS (incl. Dynam
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,aws" />
 
 **Testing & QA**  
-Jest • JUnit • PyTest • Postman  
-Heuristic Evaluation • Test Doubles • Unit / Integration / E2E / Black-box Testing  
+Jest • JUnit • PyTest • Postman • Heuristic Evaluation • Test Doubles • Unit / Integration / E2E / Black-box Testing  
 <img src="https://skillicons.dev/icons?i=jest,postman" />
 
 ---
@@ -90,8 +89,6 @@ EdTech platform for youth in LATAM to find personalized learning paths and job o
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fanilex&theme=radical" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fanilex&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanilex&theme=radical" />
-  <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fanilex&theme=radical&utcOffset=-6" />
 </p>
 
