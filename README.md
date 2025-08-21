@@ -37,23 +37,15 @@ Jest • JUnit • PyTest • Postman • Heuristic Evaluation • Test Doubles 
 
 ### 🔎 [Plagiarism Detection System (Golang)](https://github.com/alexkm174x8/Plagiarism-)
 An algorithmic comparison system using **Suffix Array** and **LCS** for accurate similarity scoring.  
-🔹 Developed with Go for performance and academic writing integrity detection  
-🔹 Real-time substring analysis and modular structure for extensibility
 
 ### 🛰 [Rocket Telemetry Dashboard (JavaScript + Python)](https://github.com/Francisco1583/rockingScience)
 A real-time dashboard to monitor rocket telemetry at **Spaceport America Cup**.  
-🔹 Displays GPS and sensor data using Python, Dash, and custom JS components  
-🔹 Built weather prediction models based on altitude and pressure telemetry
 
 ### 🌿 [Tentzo Hiking App (Kotlin + Firebase)](https://github.com/alexkm174x8/Tentzo-App-Android)
 Mobile app to identify native plants while hiking in Ocoyucan, Puebla using AI and geolocation.  
-🔹 Integrated Google Maps SDK & Plant.ID API  
-🔹 Firebase backend with gamification and trail tracking
 
 ### ❤️ [Concora (TypeScript + Firebase)](https://concora.mx/)
 EdTech platform for youth in LATAM to find personalized learning paths and job opportunities.  
-🔹 I led the fullstack development, architecture & UX/UI  
-🔹 CI/CD, agile sprints, and scalability with Firebase
 
 ---
 
