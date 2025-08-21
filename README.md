@@ -52,26 +52,16 @@ EdTech platform for youth in LATAM to find personalized learning paths and job o
 ## 🏆 Awards & Honors
 
 - 🧠 **Mexican Female Olympiad in Informatics (OFMI)** – *Silver Medal*  
-  Recognized for excellence in algorithmic problem solving with C++, which led to an invitation to represent at the **ICPC ESCOM Regional**.
   
 - 🧩 **EasyA x Stacks Harvard Hackathon** – *Finalist*  
-  Presented **Concora**, an EdTech platform empowering youth through personalized learning and real-world opportunities.
   
 - 🥇 **Hult Prize Regional (Centro-Sur)** – *1st Place*  
-  Led the winning pitch for **Concora**, addressing youth employability in LATAM through adaptive education and job-matching.
 
 - 🥈 **Justice Social Ideathon (ILO & UN)** – *2nd Place*  
-  Honored for designing an inclusive and impactful educational platform focused on equity and transparency.
-
-- 🌐 **International Recognition for Concora**  
-  Highlighted by global organizations for driving **personalized learning** and **youth empowerment** through technology.
 
 - 🏅 **High-Performance Mathematics Competition** – *Gold Medal*  
-  Awarded for outstanding proficiency in C++ and mathematical problem solving in a competitive academic setting.
 
 - 🎓 **Founder Scholarship @ Tecnológico de Monterrey**  
-  Selected for academic excellence; ranked in the **Top 10%** of students nationally.
-
 
 ---
 
